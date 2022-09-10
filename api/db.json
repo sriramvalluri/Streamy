@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "New Stream",
+      "description": "code along app",
+      "id": 1
+    },
+    {
+      "title": "New Steream",
+      "description": "It's me",
+      "userId": "104744307494249124347",
+      "id": 4
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "Code and check Navigation ",
+      "userId": "104744307494249124347",
+      "id": 5
+    }
+  ]
+}
